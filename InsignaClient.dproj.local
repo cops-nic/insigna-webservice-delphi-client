@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2017/08/30 16:02:26.000.707,C:\Users\rsoto\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\X\delphi-client\InsignaClient.dproj</Transaction>
+    <Transaction>2017/08/30 16:03:09.000.955,=C:\X\delphi-client\services.pas</Transaction>
+    <Transaction>2017/08/30 16:05:10.000.472,C:\X\delphi-client\services.pas=C:\X\delphi-client\InsignaWS.pas</Transaction>
+    <Transaction>2017/08/30 16:06:25.000.378,=C:\X\delphi-client\Unit1.pas</Transaction>
+    <Transaction>2017/08/30 16:08:29.000.561,C:\X\delphi-client\Unit1.pas=C:\X\delphi-client\WSSecurity.pas</Transaction>
+    <Transaction>2017/08/30 16:09:59.000.434,=C:\X\delphi-client\Unit1.pas</Transaction>
+    <Transaction>2017/08/30 16:10:08.000.624,C:\X\delphi-client\Unit1.pas=C:\X\delphi-client\Client.pas</Transaction>
+    <Transaction>2017/08/31 11:00:33.000.944,C:\X\delphi-client\InsignaWS.pas=C:\X\delphi-client\services.pas</Transaction>
+    <Transaction>2017/08/31 11:28:28.000.773,C:\X\delphi-client\services.pas=C:\X\delphi-client\InsignaWS.pas</Transaction>
+  </Transactions>
+</BorlandProject>
